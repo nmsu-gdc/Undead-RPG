@@ -21,6 +21,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -58,3 +59,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+### custom ignore list
+
+.DS_Store
+*.sublime-workspace
+
+*/Assets/AssetStoreTools
+*/Sirenix/Assemblies/AOT
+*/Assets/StreamingAssets/com.unity.addressables/
+*/Assets/StreamingAssets/aa/
