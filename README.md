@@ -1,3 +1,3 @@
 # Undead-RPG
 
-created bu NMSU GDC 2020
+created by NMSU GDC 2020
